@@ -1,0 +1,68 @@
+.tic-tac-toe {
+  width: 214px;
+  height: 214px;
+  min-height: 154px;
+  border: 2px solid black;
+  margin: 50px auto;
+}
+
+.ttt-grid {
+  width: 70px;
+  min-height: 70px;
+  border: 1px solid black;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 2px 2px;
+  font-size: 40px;
+}
+
+button {
+  width: 214px;
+  height: 70px;
+  font-weight: 700;
+  border-radius: 4px;
+}
+
+.first-step {
+  width: 105px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.label {
+  width: 214px;
+}
+
+.label-toe {
+  width: 70px;
+  text-align: center;
+}
+
+.label-crosses {
+  width: 70px;
+  text-align: center;
+}
+
+.scores {
+  width: 214px;
+}
+
+.score {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+  font-size: 40px;
+  padding: 2px 2px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.select {
+  width: 214px;
+}
+
+.active {
+  color: red;
+}
+
